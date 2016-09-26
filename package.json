@@ -1,0 +1,31 @@
+{
+  "name": "ghost-example-theme",
+  "version": "0.0.0",
+  "description": "An example Ghost theme, demonstrating best practices",
+  "author": {
+      "name": "Hannah Wolfe",
+      "email": "erisds+npm@gmail.com",
+      "url": "https://hannah.wf"
+  },
+  "homepage": "https://github.com/ErisDS/Ghost-Example-Theme#readme",
+  "demo": "https://example-theme.hannah.wf",
+  "screenshots": {
+    "desktop": "screenshot-desktop.png",
+    "mobile": "screenshot-mobile.png"
+  },
+  "keywords": [
+    "ghost",
+    "theme",
+    "minimal",
+    "example"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErisDS/Ghost-Example-Theme.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ErisDS/Ghost-Example-Theme/issues"
+  },
+  "contributors": "https://github.com/ErisDS/Ghost-Example-Theme/graphs/contributors"
+}
